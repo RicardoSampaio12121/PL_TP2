@@ -1,0 +1,8 @@
+make " teste 0
+make " teste2 100
+
+while [ :teste < 100 ] [
+    make " teste teste + 2 
+    fd teste
+    rt 90
+]

@@ -1,0 +1,2 @@
+penup sety 170 pendown
+setpencolor [ 1 0 0 ] repeat 180 [fd 100 bk 100 rt 2]

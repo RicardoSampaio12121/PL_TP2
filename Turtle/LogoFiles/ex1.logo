@@ -1,0 +1,7 @@
+fd 100
+right 90
+forward 100
+lt 90
+forward 100
+rt 180
+fd 300

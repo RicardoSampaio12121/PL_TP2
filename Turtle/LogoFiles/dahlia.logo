@@ -1,0 +1,11 @@
+penup
+sety 50
+pendown
+
+make " timesum 8
+
+make " timesdois  6
+
+make " timestres 90
+
+repeat timesum [rt 45 repeat timesdois [repeat timestres [fd 2 rt 2] rt 90]]

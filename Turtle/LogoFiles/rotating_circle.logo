@@ -1,0 +1,6 @@
+to : rotatingcircle ( time1 time2 time3 ) [
+    penup sety 170 setx 40 pendown
+    repeat time1 [ repeat time2 [ fd time3 rt 10] rt 90]
+]
+
+rotatingcircle ( 400 34 12 )

@@ -1,0 +1,28 @@
+make "teste 100
+make "angle 90
+
+fd :teste
+rt :angle
+fd 100
+rt 90
+fd 100
+rt 90
+bk :teste
+lt 90
+bk 100
+lt :angle
+bk :teste
+
+make "testedois 1
+make "testetres 100
+make "testequatro 120
+make "testecinco 170
+
+
+setxy [ 40 40 ]
+setxy [ :testedois 1 ]
+setxy [ 1 :testetres]
+setxy [ :testequatro :testecinco]
+penup
+home
+pendown

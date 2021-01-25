@@ -1,0 +1,4 @@
+make "teste 100
+make "lop :teste + 10
+
+fd teste

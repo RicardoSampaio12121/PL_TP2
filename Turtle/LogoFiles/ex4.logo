@@ -1,0 +1,5 @@
+setpos [ 100 100 ]
+setx 0
+sety 0
+setxy 100 0
+sety 100

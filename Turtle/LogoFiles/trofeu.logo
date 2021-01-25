@@ -1,0 +1,17 @@
+fd 100
+setpos [ 50 50 ]
+setpos [ 1 1 ]
+pu
+rt 90
+fd 100
+pd
+lt 90
+fd 100
+bk 40
+lt 90
+fd 62
+bk 62
+lt 90
+fd 20
+rt 90
+fd 60

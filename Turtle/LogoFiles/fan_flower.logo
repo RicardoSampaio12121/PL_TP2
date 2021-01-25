@@ -1,0 +1,5 @@
+penup
+sety 120
+setx 50
+pendown
+repeat 12 [repeat 75 [fd 50 bk 50 rt 2] fd 150]

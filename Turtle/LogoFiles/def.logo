@@ -1,0 +1,10 @@
+to :testefunc ( varum vardois vartres ) [
+    fd :varum
+    rt 90
+    fd :vardois
+    rt 90
+    fd :vartres
+]
+
+testefunc ( 50 100 150)
+

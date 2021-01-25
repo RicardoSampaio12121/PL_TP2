@@ -1,0 +1,13 @@
+make "teste 100
+make "testet 101
+
+if [ :teste = :testet ] [
+    penup
+    sety 120
+    setx 50
+    pendown
+    repeat 12 [repeat 75 [fd 50 bk 50 rt 2] fd 150]
+] else [
+    penup sety 170 pendown
+    setpencolor [ 1 0 0 ] repeat 180 [fd 100 bk 100 rt 2]
+]
